@@ -25,7 +25,9 @@
 #navbar-container ul li{
   display: block;
   padding: 10px 20px;
-  background-color: #000;  
+  background-color: #000;
+  position: relative;
+  float: left;  
 }
 
 #navbar-container ul li a{
